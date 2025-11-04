@@ -7,7 +7,7 @@
 
 ## Guia de Estudos
  - Para esta atividade, você precisará participar do "Fórum de boas vindas!".
- - Biclioteca scikit-learn
+ - Biblioteca scikit-learn
 
 ### Encontro remoto 1
 **Objetivo da Atividade**
