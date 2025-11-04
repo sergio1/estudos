@@ -9,7 +9,7 @@
 - desenvolver um sistema de recomentação de destinos de viagem em Python, utilizando estruturas de dados, controle e fluxo e funções.
 
 ### Desafio 1  - Situação Problema
-**Objetivo da atividade**
+**Objetivo da atividade**  
 - Contruir um modelo preditivo para um e-commerce
 **Dinâmica da atividade**
 - Atividade individual
