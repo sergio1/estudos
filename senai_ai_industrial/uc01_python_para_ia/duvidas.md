@@ -8,6 +8,9 @@
 ## Guia de Estudos
  - Para esta atividade, você precisará participar do "Fórum de boas vindas!".
  - Biblioteca scikit-learn
+    - [scikit-learn](https://medium.com/@habbema/introdu%C3%A7%C3%A3o-ao-scikit-learn-f00b7201dbf7)
+    - [site-oficial](https://scikit-learn.org/stable/)
+    - [documentação](https://scikit-learn.org/stable/user_guide.html)
 
 ### Encontro remoto 1
 **Objetivo da Atividade**
