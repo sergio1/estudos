@@ -1,3 +1,8 @@
+# Dicas para estudo remoto
+1) **Encontre um hórario mas produtivo**
+2) **Evite as distrações**
+3) **Lembre do proposito**
+
 # UC01 - Python para IA 
 
 ## Guia de Estudos
